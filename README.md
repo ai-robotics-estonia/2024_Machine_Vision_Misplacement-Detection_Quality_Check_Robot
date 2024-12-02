@@ -1,6 +1,6 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# [Testing of Automated Machine Vision Based Program Generation Method for Collaborative Robots]
+# Testing of Automated Machine Vision-Based Program Generation Method for Collaborative Robots
 
 ## Summary
 | Company Name | [Skarcon Machining OÜ](https://skarcon.ee/machinery/) |
