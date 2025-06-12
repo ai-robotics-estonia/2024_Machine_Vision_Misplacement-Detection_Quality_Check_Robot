@@ -17,8 +17,8 @@
 The project validates and tests new machine vision support for collaborative robots (cobots) used in the production of manufacturing industries. The solution enables automated programming of cobots using the learned placement of the workpieces. The solution helps significantly increase the efficiency and safety of the production process and is applicable to an extensive class of production tasks.
 
 ## Objectives of the Demonstration Project
-The aim of the project is to enhance the efficiency of utilizating collaborative robots (cobots) in the CNC production process. Within the project, the focus will be on employing computer vision to validate an automated method for exploiting the cobot's capabilities in assisting with the production. The specific objectives include: :
-- Automatic calibration between the camera and cobot,
+The aim of the project is to enhance the efficiency of utilizing collaborative robots (cobots) in the CNC production process. Within the project, the focus will be on employing computer vision to validate an automated method for exploiting the cobot's capabilities in assisting with the production. The specific objectives include: :
+- Automatic calibration between the camera and the cobot,
 - Detecting and measuring billet objects for programming the cobot using machine vision,
 - Automated program generation and operation control for the cobot.
 
@@ -94,12 +94,15 @@ All results in the execution mode are logged in a readable text file for the use
 
 
 ### Future Potential of the Technical Solution
-- [Use case 1],
-- [Use case 2],
+- **Scalability to Diverse Manufacturing Processes:** The solution can be adapted to various CNC machines and production workflows, enabling broader deployment across different industries beyond the initial use case.
+- **Integration with AI for Predictive Automation:** Future enhancements can incorporate AI-driven decision-making to enable predictive task planning, anomaly detection, and adaptive control in real time.
+- **Remote Monitoring and Control:** The system can be extended to support remote diagnostics, monitoring, and control, facilitating smart factory integration and reducing the need for on-site human supervision.
+- **Plug-and-Play Automation Modules:** With further development, the solution can evolve into a modular, plug-and-play system, drastically lowering the technical entry barrier for SMEs adopting cobot-based automation.
+- **Data-Driven Optimization for Continuous Improvement:** Accumulated production and vision data can be leveraged to continuously optimize cobot performance, calibration accuracy, and operational efficiency using data analytics and machine learning.
 
 
 ### Lessons Learned
-- Accurate and automated calibration is required for maintaining a high accuracy 
+- Accurate and automated calibration is required for maintaining high accuracy 
 - Lab tests are not necessarily valid for the real tests at the workshop
 - The robustness of the algorithm against environmental noise and vibration is vital
 - Safety monitoring in such applications is crucial
